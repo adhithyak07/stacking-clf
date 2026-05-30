@@ -36,7 +36,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("Stacking Classifier with Hyperparameter Tuning")
+st.title("Stacking Classifier")
 
 uploaded_file = st.file_uploader(
     "Upload CSV File",
